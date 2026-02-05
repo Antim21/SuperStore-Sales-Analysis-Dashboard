@@ -8,9 +8,12 @@ This repository contains the necessary files and resources to conduct a comprehe
 ## Forecasting using Power BI Forecast Tool
 One of the key features of this project is the utilization of the Power BI Forecast tool. By leveraging this tool, accurate sales forecasts are generated based on historical sales data. This forecasting capability helps businesses plan and make informed decisions for future sales strategies and resource allocation.
 
+<img width="1036" height="597" alt="image" src="https://github.com/user-attachments/assets/87d7ee62-e956-4c8c-a3d0-5bb93460ffa9" />
+
 ## Conclusion
 Through the analysis of the superstore sales data and the implementation of sales forecasting using Power BI, this project provides valuable insights for business owners and decision-makers. By understanding customer behavior, identifying top-performing products, and utilizing accurate sales forecasts, businesses can optimize their operations and drive growth effectively.
 
 
+<img width="1029" height="587" alt="image" src="https://github.com/user-attachments/assets/ac40a1aa-c628-4ce6-87ff-3c166218841c" />
 
 
